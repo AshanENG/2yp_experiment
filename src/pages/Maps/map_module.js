@@ -13,7 +13,7 @@ const USE_FAKE_LOCATION = true;
 // 📍 Fake location coordinates (must be within map bounds)
 // Map bounds: lat 7.252000-7.255500, lng 80.590249-80.593809
 // You can adjust these coordinates to test different positions:
-const FAKE_LOCATION = {lat: 7.254650,  lng: 80.591277};
+const FAKE_LOCATION = {lat: 7.254640,  lng: 80.591170};
   // Other test locations:
   // Engineering Library: lat: 7.253500, lng: 80.591800
   // Department of Computer Engineering: lat: 7.254200, lng: 80.591500

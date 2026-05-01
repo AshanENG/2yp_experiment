@@ -14,6 +14,7 @@ export default defineConfig(({ mode }) => {
     server: {
       port: parseInt(env.VITE_DEV_PORT) || 5173,
       host: true,
+      allowedHosts: ['stellular-guadalupe-tressy.ngrok-free.dev', '.ngrok-free.dev'],
     },
   }
 })
